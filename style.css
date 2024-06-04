@@ -16,6 +16,13 @@ main
     grid-area: 1/2/9/6;
     
 }
+.signup
+{
+    margin: 0;
+    font-size: 90px;
+    grid-area: 1/5/1/5;
+    padding-left: 50px;
+}
 nav
 {
     margin-top: -17px;
