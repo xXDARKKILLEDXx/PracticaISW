@@ -7,7 +7,7 @@ body
     background-color: purple;
     display: grid;
     grid-template-columns: 13% 27% 20% 20% 20%;
-    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20% 20%;
 
 }
 main
@@ -43,6 +43,12 @@ nav
     margin-top: -17px;
     background-color: rgba(255, 0, 0, 0.604); 
     grid-area: 1/1/6/1;
+}
+.content
+{
+    background-color: rgb(13, 130, 46);
+
+    grid-area: 2/2/5/6;
 }
 .bar
 {
